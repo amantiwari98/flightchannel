@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.navbar img{
+    height:4rem;
+    width: 100%;
+}
+.navbarline .nav-link{
+    color: #6f6f6f;
+    text-transform: uppercase;
+    font-size: 0.95rem;
+    margin-right: 0.5rem;
+}
+.navbarline .nav-link:hover{
+    color: #f33;
+}
+.wall{
+    background-image: url('./images/wall.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:auto;
+    width: 100%;
+    padding: 2.3rem;
+    border-top: 5px solid #29347c;
+}
+.box{
+    background-color: black;
+    margin-top: 2.7rem;
+    padding: 1.3rem 0rem 1.3rem 1.8rem;
+}
+.box input{
+    border-radius: 0rem;
+    padding: 0.5rem;
+    border:none;
+    margin-bottom: 0.95rem;
+}
+.box p{
+    margin-bottom: 0.4rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.01rem;
+    color: white;
+}
+.box h3{
+    color: white;
+    font-size: 1.48rem;
+    font-weight: bold;
+    margin-bottom: 1.3rem;
+    text-transform: capitalize;
+}
+.box button{
+    background-color: #f33;
+    color: white;
+    width: 100%;
+    padding-bottom: 0.5rem;
+}
+.fly h2{
+    text-align: center;
+    color: #f33;
+    font-weight: bold;
+    font-size: 2.7rem;
+}
+.fly p{
+    color: #6f6f6f;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.service img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.service{
+    margin-top: 2rem;
+}
+.service .k{
+    font-weight: bold;
+    color: #29347c;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+.service p{
+    margin-bottom: 0rem;
+    font-size: 0.9rem;
+}
+.service .col-md-3{
+    border: 0.001rem dotted #6f6f6f;
+    padding: 0.7rem;
+}
+.destination img{
+    width: 100%;
+    cursor: pointer;
+}
+.destination .col-md-3{
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+.plans{
+    margin-top: 7rem;
+}
+.plans h6{
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+@media screen and (max-width: 480px) {
+    .plans h6{
+        text-align: center;
+    }
+    .plans p{
+        text-align: center;
+    }
+    .plans img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .plans button{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+  }
+.plans p{
+    color: #333;
+    font-size: 0.9rem;
+    text-align: left;
+}
+.plans button{
+    background-color: #097db1;
+    color: white;
+    border-radius: 0px;
+}
+.secrow{
+    margin-top:3rem;
+}
+.airline h1{
+    color: #f33;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 1.8rem;
+}
+.airline button{
+    border: 2px solid #097db1;
+    margin-top: 1rem;
+    padding: 0.6rem;
+    color: #333;
+    font-weight: 700;
+}
+.airline button:hover{
+    background-color: #097db1;
+    color: white;
+    transition: 0.1s ease-in;
+}
+.fly img{
+    width: 100%;
+    height: 13rem;
+}
+.fly img:hover{
+   box-shadow: 5px 5px 18px 0px rgb(49, 37, 37);
+   transition: 0.4s ease-in;
+   cursor: pointer;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #f08800;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.subs p{
+    color: #333;
+    font-size: 0.99rem;
+}
+.subs h2{
+    color: black;
+    font-size: 1.5rem;
+}
+.subs2{
+    background-color: #e0e0e082;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+.subs2 input{
+    width: 100%;
+    padding:0.8rem;
+}
+.subs2 button{
+    background-color: #097db1;
+    color: white;
+    border:none;
+    padding: 0.8rem;
+    margin-top: 0.3rem;
+}
+.subs2 p{
+    color: #333;
+}
+.customer h3{
+    text-align: center;
+    color: #333;
+    margin-bottom: 0.8rem;
+}
+.customer{
+    margin-top: 2.8rem;
+}
+.customer .col-md-10{
+    border-bottom: 1px solid rgb(202, 198, 198);
+    border-top: 1px solid  rgb(202, 198, 198);
+    padding: 0.7rem;
+}
+.customer img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7rem;
+    cursor: pointer;
+}
+.customer p{
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.footer{
+    background-color: #02678e;
+    color: rgba(255,255,255,.74);;
+    padding: 1.7rem;
+    padding-top: 2.5rem;
+}
+.footer li{
+    list-style-type: none;
+    font-size: 0.92rem;
+    margin-bottom: 0.7rem;
+    cursor: pointer;
+}
+.footer h5{
+    color: white;
+}
+.footer ul{
+    padding-left: 0px;
+    margin-top: 2rem;
+}
+.social{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.copy{
+    background-color: #097db1;
+    color: white;
+    text-align: center;
+    padding: 0.8rem;
+    font-weight: bold;
+    margin-bottom: 0rem;
+}
+.most{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./images/globe2.webp');
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.most .btn:hover{
+    background-color: white;
+    color: black;
+}
+.stickyfooter{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ea7f07;
+    color: black;
+    text-align: center;
+    margin-bottom: 0rem;
+    padding: 0.5rem;
+    font-weight: bold;
+}
