@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/flightchannel/static/css/main.6dc39311.chunk.css",
+    "main.js": "/flightchannel/static/js/main.18e255c0.chunk.js",
+    "main.js.map": "/flightchannel/static/js/main.18e255c0.chunk.js.map",
+    "runtime-main.js": "/flightchannel/static/js/runtime-main.42670a2c.js",
+    "runtime-main.js.map": "/flightchannel/static/js/runtime-main.42670a2c.js.map",
+    "static/js/2.4600ec24.chunk.js": "/flightchannel/static/js/2.4600ec24.chunk.js",
+    "static/js/2.4600ec24.chunk.js.map": "/flightchannel/static/js/2.4600ec24.chunk.js.map",
+    "index.html": "/flightchannel/index.html",
+    "precache-manifest.3331d6f860c96a56640f70960dd69c5f.js": "/flightchannel/precache-manifest.3331d6f860c96a56640f70960dd69c5f.js",
+    "service-worker.js": "/flightchannel/service-worker.js",
+    "static/css/main.6dc39311.chunk.css.map": "/flightchannel/static/css/main.6dc39311.chunk.css.map",
+    "static/js/2.4600ec24.chunk.js.LICENSE.txt": "/flightchannel/static/js/2.4600ec24.chunk.js.LICENSE.txt",
+    "static/media/ams.webp": "/flightchannel/static/media/ams.22be1ab7.webp",
+    "static/media/atlanta.webp": "/flightchannel/static/media/atlanta.abb28f6f.webp",
+    "static/media/beach.webp": "/flightchannel/static/media/beach.438679ba.webp",
+    "static/media/bridge.webp": "/flightchannel/static/media/bridge.1efe5397.webp",
+    "static/media/canada.webp": "/flightchannel/static/media/canada.e22196d4.webp",
+    "static/media/cancun.webp": "/flightchannel/static/media/cancun.db735450.webp",
+    "static/media/city.webp": "/flightchannel/static/media/city.aaee3a1a.webp",
+    "static/media/globe.webp": "/flightchannel/static/media/globe.e6aa8ce1.webp",
+    "static/media/globe2.webp": "/flightchannel/static/media/globe2.e6aa8ce1.webp",
+    "static/media/london.webp": "/flightchannel/static/media/london.d9f1a36f.webp",
+    "static/media/miami.webp": "/flightchannel/static/media/miami.8ee5984a.webp",
+    "static/media/newyork.webp": "/flightchannel/static/media/newyork.7a7923ec.webp",
+    "static/media/paris.webp": "/flightchannel/static/media/paris.e74a28ad.webp",
+    "static/media/pay.png": "/flightchannel/static/media/pay.1ef201cb.png",
+    "static/media/punta.webp": "/flightchannel/static/media/punta.1b604eb5.webp",
+    "static/media/santo.webp": "/flightchannel/static/media/santo.4c7c01d5.webp",
+    "static/media/tour.jpeg": "/flightchannel/static/media/tour.df82af6d.jpeg",
+    "static/media/valarta.jpeg": "/flightchannel/static/media/valarta.21d73a75.jpeg",
+    "static/media/App.css": "/flightchannel/static/media/wall.7e6d861d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42670a2c.js",
+    "static/js/2.4600ec24.chunk.js",
+    "static/css/main.6dc39311.chunk.css",
+    "static/js/main.18e255c0.chunk.js"
+  ]
+}
